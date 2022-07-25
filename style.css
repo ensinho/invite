@@ -1,0 +1,43 @@
+* {
+  margin: 10;
+}
+body {
+  width: 100%; 
+  min-width: 600px;
+  max-width: 2000px;
+  background-image: url(https://img.wattpad.com/fa10556c03b3bc7e91712efeda082ed48c9f6754/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f76497267625f724c6d514b7965773d3d2d3838383136353537322e313631363832363531346439326331313638333534363035343934312e6a7067);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+img {
+  box-shadow: 5px 5px rgb(119, 16, 147);
+  border: 20px;
+  border-radius: 18px;
+  margin-left: 200px;
+  height: 450px;
+  width: 620px;
+}
+
+.title {
+  font-size: 60px;
+  margin-left: 48px;
+  color: rgb(229, 121, 188);
+  background-color: rgba(74, 73, 152, 0.343);
+  font: 700 5.5rem 'Poppins', sans-serif;
+}
+.Subtitle {
+  color: rgb(255, 255, 255);
+  background-color: rgba(74, 73, 152, 0.448);
+  margin: auto;
+  font-size: 54px;
+  margin-left: 47px;
+  font: 700 3.5rem 'Poppins', sans-serif;
+}
+.comment {
+  color: rgb(255, 255, 255);
+  background-color: rgba(74, 73, 152, 0.343);
+  font-size: 84px;
+  margin-left: 52px;
+  font: 700 2.5rem 'Poppins', sans-serif;
+}
