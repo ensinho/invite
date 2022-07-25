@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt_BR">
+  <!-------------------Página-------------------------->
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=safari" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Você foi Convidado!!</title>
+  <!---------Background--------------->
+    <link rel="stylesheet" href="style.css" />
+  <!------Fontes---------------------->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap" rel="stylesheet">
+
+  </head>
+  <body>
+    <header>
+      <!----Título---->
+      <h1><div class="title"> >> Você foi convidado para comemorar os 18 anos de Ensinho!!!  </div></h1>
+    </header>
+
+    <main>
+      <section>
+      <!-------Bloco Principal------->
+        <img
+          src="https://i.pinimg.com/564x/50/80/00/5080001e76868269e4a6392789404cda.jpg"
+          alt=""
+        />
+        <img src="https://i.pinimg.com/564x/21/ec/5b/21ec5b50c0897f9bc85a6c85583644b6.jpg" alt="">
+        <h1>
+      <!-----Subtitulo----->
+          <div class="Subtitle">
+            > Irei estar comemorando, com uma pequena festinha no deck, terá piscina, música e muita curtição!! 
+          </div>
+        </h1>
+        <p>
+      <!------Comentario------>
+          <div class="comment"> > Aqui, algumas informações: <a href="https://www.google.com/maps/place/Condom%C3%ADnio+Residencial+%C3%81gua+Fria/@-3.7608269,-38.4858932,19z/data=!4m14!1m8!3m7!1s0x7c748a809ae6007:0x7650254faa76f2df!2sCondom%C3%ADnio+Pier+79.+2+-+Rua+Manoel+Firmino+Sampaio,+50+-+%C3%81gua+Fria,+Fortaleza+-+CE,+60810-015!3b1!8m2!3d-3.7611271!4d-38.4857807!10e5!3m4!1s0x7c74602b4a44f9b:0xca2495085584e946!8m2!3d-3.7609537!4d-38.4859165">  Localização do Evento </a>  , próximo ao Shopping Iguatemi.
+          </div>
+        </p>
+      </section>
+    </main>
+  </body>
+</html>
+  
